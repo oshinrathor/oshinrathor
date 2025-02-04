@@ -21,19 +21,19 @@ Here are a few of my most notable projects that highlight my skills in **data an
 - **Amazon Web Scraping**  
   Scraped product data from Amazon, enabling detailed product sentiment analysis, pricing insights, and review analysis. Used web scraping techniques to automate data extraction and analysis.
 
-- **Customer Segmentation (cus_Segment)**  
+- **Customer Segmentation**  
   Developed a clustering algorithm to segment customers based on purchasing behavior. This helps businesses identify target demographics and create tailored marketing strategies.
 
-- **Language Identifier (lang_Identifier)**  
+- **Language Identifier**  
   Built a tool that accurately identifies the language of any given text using machine learning and NLP techniques.
 
-- **SMS Spam Classifier (sms_Spam_Classifier)**  
+- **SMS Spam Classifier**  
   Designed a classification model to detect and filter out spam messages from SMS, improving message management and user experience.
 
 - **Text Mining**  
   Performed text mining techniques on large datasets to extract valuable insights and patterns using tokenization, sentiment analysis, and feature extraction.
 
-- **Traffic Accidents Analysis & Prediction (trafficAccidents_AnalysisPrediction)**  
+- **Traffic Accidents Analysis & Prediction**  
   Analyzed traffic accident data to identify patterns and predict accident hotspots, ultimately improving road safety.
 
 - **Sentiment Analysis**  
@@ -43,13 +43,13 @@ Here are a few of my most notable projects that highlight my skills in **data an
 
 ### **Power BI Dashboards** 📊
 
-- **Apocalypse Food Prep Dashboard** *(Apocalypse_FoodPrep.pbix)*  
+- **Apocalypse Food Prep Dashboard** 
   An interactive Power BI dashboard for food preparedness, helping users track inventory and manage expiration dates in case of emergencies.
 
-- **Data Science Careers/Professional Dashboard** *(Data Science Careers/Professional Dashboard.pbix)*  
+- **Data Science Careers/Professional Dashboard**  
   A comprehensive dashboard that helps professionals track their career progression in the data science field, providing key metrics and insights.
 
-- **NIA Dashboard** *(NIAdashboard.png)*  
+- **NIA Dashboard**  
   A sophisticated dashboard visualizing trends and insights from National Intelligence Agency data, designed for high-level analysis.
 
 - **Uber Dashboard**  
